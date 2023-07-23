@@ -1,0 +1,659 @@
+2023-07-21 21:52:48,362 - ebanking -INFO - URL is Opened
+2023-07-21 21:52:48,681 - ebanking -INFO - Enterd username
+2023-07-21 21:52:48,879 - ebanking -INFO - enterd password
+2023-07-21 21:52:52,006 - ebanking -INFO - Login test passed
+2023-07-21 21:56:29,034 - ebanking -INFO - URL is Opened
+2023-07-21 21:56:29,407 - ebanking -INFO - Enterd username
+2023-07-21 21:56:29,547 - ebanking -INFO - enterd password
+2023-07-21 21:56:31,024 - ebanking -INFO - Login test passed
+2023-07-21 21:57:05,916 - ebanking -INFO - URL is Opened
+2023-07-21 21:57:06,304 - ebanking -INFO - Enterd username
+2023-07-21 21:57:06,406 - ebanking -INFO - enterd password
+2023-07-21 21:57:07,909 - ebanking -INFO - Login test passed
+2023-07-21 22:01:48,407 - ebanking -INFO - URL is Opened
+2023-07-21 22:01:48,804 - ebanking -INFO - Enterd username
+2023-07-21 22:01:48,921 - ebanking -INFO - enterd password
+2023-07-21 22:01:50,292 - ebanking -INFO - Login test passed
+2023-07-21 22:03:00,810 - ebanking -INFO - URL is Opened
+2023-07-21 22:03:01,196 - ebanking -INFO - Enterd username
+2023-07-21 22:03:01,299 - ebanking -INFO - enterd password
+2023-07-21 22:03:02,581 - ebanking -INFO - Login test passed
+2023-07-21 22:05:04,672 - ebanking -INFO - URL is Opened
+2023-07-21 22:05:05,105 - ebanking -INFO - Enterd username
+2023-07-21 22:05:05,220 - ebanking -INFO - enterd password
+2023-07-21 22:05:06,568 - ebanking -INFO - Login test passed
+2023-07-21 22:09:09,436 - ebanking -INFO - URL is Opened
+2023-07-21 22:09:09,851 - ebanking -INFO - Enterd username
+2023-07-21 22:09:09,983 - ebanking -INFO - enterd password
+2023-07-21 22:09:12,015 - ebanking -INFO - Login test passed
+2023-07-21 23:12:18,021 - ebanking -INFO - URL is Opened
+2023-07-21 23:12:18,521 - ebanking -INFO - Enterd username
+2023-07-21 23:12:18,830 - ebanking -INFO - enterd password
+2023-07-21 23:12:20,775 - ebanking -INFO - Login test passed
+2023-07-21 23:13:54,752 - ebanking -INFO - URL is Opened
+2023-07-21 23:13:55,780 - ebanking -INFO - user name provided
+2023-07-21 23:13:55,956 - ebanking -INFO - password provided
+2023-07-21 23:13:58,281 - ebanking -INFO - Login passed
+2023-07-21 23:14:01,605 - ebanking -INFO - URL is Opened
+2023-07-21 23:14:02,150 - ebanking -INFO - user name provided
+2023-07-21 23:14:02,309 - ebanking -INFO - password provided
+2023-07-21 23:14:06,129 - ebanking -INFO - URL is Opened
+2023-07-21 23:14:06,292 - ebanking -INFO - user name provided
+2023-07-21 23:14:06,602 - ebanking -INFO - password provided
+2023-07-21 23:14:07,832 - ebanking -INFO - Login passed
+2023-07-21 23:14:11,191 - ebanking -INFO - URL is Opened
+2023-07-21 23:14:11,979 - ebanking -INFO - user name provided
+2023-07-21 23:14:12,086 - ebanking -INFO - password provided
+2023-07-21 23:14:13,831 - ebanking -INFO - Login passed
+2023-07-21 23:16:51,686 - ebanking -INFO - URL is Opened
+2023-07-21 23:16:52,203 - ebanking -INFO - user name provided
+2023-07-21 23:16:52,362 - ebanking -INFO - password provided
+2023-07-21 23:16:54,126 - ebanking -INFO - Login passed
+2023-07-21 23:16:57,142 - ebanking -INFO - URL is Opened
+2023-07-21 23:16:57,251 - ebanking -INFO - user name provided
+2023-07-21 23:16:57,673 - ebanking -INFO - password provided
+2023-07-21 23:17:02,019 - ebanking -INFO - URL is Opened
+2023-07-21 23:17:02,142 - ebanking -INFO - user name provided
+2023-07-21 23:17:02,781 - ebanking -INFO - password provided
+2023-07-21 23:17:04,466 - ebanking -INFO - Login passed
+2023-07-21 23:17:08,329 - ebanking -INFO - URL is Opened
+2023-07-21 23:17:08,468 - ebanking -INFO - user name provided
+2023-07-21 23:17:08,965 - ebanking -INFO - password provided
+2023-07-21 23:17:10,149 - ebanking -INFO - Login passed
+2023-07-21 23:18:29,651 - ebanking -INFO - URL is Opened
+2023-07-21 23:18:30,021 - ebanking -INFO - user name provided
+2023-07-21 23:18:30,147 - ebanking -INFO - password provided
+2023-07-21 23:18:31,620 - ebanking -INFO - Login passed
+2023-07-21 23:18:36,334 - ebanking -INFO - URL is Opened
+2023-07-21 23:18:36,513 - ebanking -INFO - user name provided
+2023-07-21 23:18:36,893 - ebanking -INFO - password provided
+2023-07-21 23:18:39,550 - ebanking -WARN - Login failed
+2023-07-21 23:18:40,694 - ebanking -INFO - URL is Opened
+2023-07-21 23:18:41,558 - ebanking -INFO - user name provided
+2023-07-21 23:18:41,680 - ebanking -INFO - password provided
+2023-07-21 23:18:42,955 - ebanking -INFO - Login passed
+2023-07-21 23:18:48,087 - ebanking -INFO - URL is Opened
+2023-07-21 23:18:48,253 - ebanking -INFO - user name provided
+2023-07-21 23:18:48,784 - ebanking -INFO - password provided
+2023-07-21 23:18:50,526 - ebanking -INFO - Login passed
+2023-07-21 23:19:24,407 - ebanking -INFO - URL is Opened
+2023-07-21 23:19:24,978 - ebanking -INFO - Enterd username
+2023-07-21 23:19:25,161 - ebanking -INFO - enterd password
+2023-07-21 23:19:27,522 - ebanking -INFO - Login test passed
+2023-07-21 23:19:36,018 - ebanking -INFO - URL is Opened
+2023-07-21 23:19:36,480 - ebanking -INFO - user name provided
+2023-07-21 23:19:36,687 - ebanking -INFO - password provided
+2023-07-21 23:19:38,646 - ebanking -INFO - Login passed
+2023-07-21 23:19:42,792 - ebanking -INFO - URL is Opened
+2023-07-21 23:19:42,941 - ebanking -INFO - user name provided
+2023-07-21 23:19:43,409 - ebanking -INFO - password provided
+2023-07-21 23:19:45,156 - ebanking -WARN - Login failed
+2023-07-21 23:19:47,822 - ebanking -INFO - URL is Opened
+2023-07-21 23:19:48,431 - ebanking -INFO - user name provided
+2023-07-21 23:19:48,602 - ebanking -INFO - password provided
+2023-07-21 23:19:50,259 - ebanking -INFO - Login passed
+2023-07-21 23:19:55,167 - ebanking -INFO - URL is Opened
+2023-07-21 23:19:56,156 - ebanking -INFO - user name provided
+2023-07-21 23:19:56,283 - ebanking -INFO - password provided
+2023-07-21 23:19:59,703 - ebanking -INFO - Login passed
+2023-07-22 18:31:45,447 - ebanking -INFO - URL is Opened
+2023-07-22 18:31:45,913 - ebanking -INFO - Enterd username
+2023-07-22 18:31:46,114 - ebanking -INFO - enterd password
+2023-07-22 18:36:00,676 - ebanking -INFO - URL is Opened
+2023-07-22 18:36:01,231 - ebanking -INFO - Enterd username
+2023-07-22 18:36:01,352 - ebanking -INFO - enterd password
+2023-07-22 18:38:47,535 - ebanking -INFO - URL is Opened
+2023-07-22 18:38:47,883 - ebanking -INFO - Enterd username
+2023-07-22 18:38:48,024 - ebanking -INFO - enterd password
+2023-07-22 18:38:49,940 - ebanking -INFO - started new registrtion
+2023-07-22 18:40:01,005 - ebanking -INFO - URL is Opened
+2023-07-22 18:40:01,358 - ebanking -INFO - Enterd username
+2023-07-22 18:40:01,489 - ebanking -INFO - enterd password
+2023-07-22 18:40:03,954 - ebanking -INFO - started new registrtion
+2023-07-22 18:41:49,382 - ebanking -INFO - URL is Opened
+2023-07-22 18:41:49,696 - ebanking -INFO - Enterd username
+2023-07-22 18:41:49,839 - ebanking -INFO - enterd password
+2023-07-22 18:41:51,336 - ebanking -INFO - started new registrtion
+2023-07-22 18:44:03,732 - ebanking -INFO - URL is Opened
+2023-07-22 18:45:44,992 - ebanking -INFO - URL is Opened
+2023-07-22 18:51:07,987 - ebanking -INFO - URL is Opened
+2023-07-22 18:51:08,406 - ebanking -INFO - Enterd username
+2023-07-22 18:51:08,519 - ebanking -INFO - enterd password
+2023-07-22 18:51:09,932 - ebanking -INFO - started new registrtion
+2023-07-22 18:56:16,225 - ebanking -INFO - URL is Opened
+2023-07-22 18:56:16,596 - ebanking -INFO - Enterd username
+2023-07-22 18:56:16,713 - ebanking -INFO - enterd password
+2023-07-22 18:56:18,067 - ebanking -INFO - started new registrtion
+2023-07-22 18:59:40,008 - ebanking -INFO - URL is Opened
+2023-07-22 18:59:40,409 - ebanking -INFO - Enterd username
+2023-07-22 18:59:40,505 - ebanking -INFO - enterd password
+2023-07-22 18:59:41,890 - ebanking -INFO - started new registrtion
+2023-07-22 19:03:06,057 - ebanking -INFO - URL is Opened
+2023-07-22 19:03:06,462 - ebanking -INFO - Enterd username
+2023-07-22 19:03:06,592 - ebanking -INFO - enterd password
+2023-07-22 19:03:07,977 - ebanking -INFO - started new registrtion
+2023-07-22 19:04:50,145 - ebanking -INFO - URL is Opened
+2023-07-22 19:04:50,520 - ebanking -INFO - Enterd username
+2023-07-22 19:04:50,644 - ebanking -INFO - enterd password
+2023-07-22 19:04:52,677 - ebanking -INFO - started new registrtion
+2023-07-22 19:06:55,003 - ebanking -INFO - URL is Opened
+2023-07-22 19:06:55,436 - ebanking -INFO - Enterd username
+2023-07-22 19:06:55,558 - ebanking -INFO - enterd password
+2023-07-22 19:06:57,029 - ebanking -INFO - started new registrtion
+2023-07-22 19:06:57,032 - ebanking -INFO - ....first...
+2023-07-22 19:07:57,152 - ebanking -INFO - URL is Opened
+2023-07-22 19:07:57,538 - ebanking -INFO - Enterd username
+2023-07-22 19:07:57,662 - ebanking -INFO - enterd password
+2023-07-22 19:09:19,182 - ebanking -INFO - URL is Opened
+2023-07-22 19:09:19,573 - ebanking -INFO - Enterd username
+2023-07-22 19:09:19,701 - ebanking -INFO - enterd password
+2023-07-22 19:09:21,591 - ebanking -INFO - started new registrtion
+2023-07-22 19:09:24,793 - ebanking -INFO - ....first...
+2023-07-22 20:44:39,897 - ebanking -INFO - URL is Opened
+2023-07-22 20:44:40,344 - ebanking -INFO - Enterd username
+2023-07-22 20:44:40,506 - ebanking -INFO - enterd password
+2023-07-22 20:49:11,438 - ebanking -INFO - started new registrtion
+2023-07-22 20:52:01,362 - ebanking -INFO - URL is Opened
+2023-07-22 20:52:01,842 - ebanking -INFO - Enterd username
+2023-07-22 20:52:02,077 - ebanking -INFO - enterd password
+2023-07-22 20:52:05,199 - ebanking -INFO - started new registrtion
+2023-07-22 20:52:08,327 - ebanking -INFO - ....first...
+2023-07-22 20:52:13,785 - ebanking -INFO - enterd userid
+2023-07-22 20:52:14,107 - ebanking -INFO - selected male radio button
+2023-07-22 20:52:14,321 - ebanking -INFO - enter datebirth
+2023-07-22 20:52:15,323 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:29:32,749 - ebanking -INFO - URL is Opened
+2023-07-23 00:29:33,287 - ebanking -INFO - Enterd username
+2023-07-23 00:29:33,437 - ebanking -INFO - enterd password
+2023-07-23 00:29:35,049 - ebanking -INFO - started new registrtion
+2023-07-23 00:29:38,189 - ebanking -INFO - ....first...
+2023-07-23 00:29:42,035 - ebanking -INFO - enterd userid
+2023-07-23 00:29:42,176 - ebanking -INFO - selected male radio button
+2023-07-23 00:29:42,433 - ebanking -INFO - enter datebirth
+2023-07-23 00:29:43,582 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:31:37,929 - ebanking -INFO - URL is Opened
+2023-07-23 00:31:38,407 - ebanking -INFO - Enterd username
+2023-07-23 00:31:38,593 - ebanking -INFO - enterd password
+2023-07-23 00:31:40,476 - ebanking -INFO - started new registrtion
+2023-07-23 00:31:43,622 - ebanking -INFO - ....first...
+2023-07-23 00:31:45,929 - ebanking -INFO - enterd userid
+2023-07-23 00:31:46,090 - ebanking -INFO - selected male radio button
+2023-07-23 00:31:46,343 - ebanking -INFO - enter datebirth
+2023-07-23 00:31:50,717 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:33:33,264 - ebanking -INFO - URL is Opened
+2023-07-23 00:33:33,768 - ebanking -INFO - Enterd username
+2023-07-23 00:33:33,996 - ebanking -INFO - enterd password
+2023-07-23 00:33:35,496 - ebanking -INFO - started new registrtion
+2023-07-23 00:33:38,860 - ebanking -INFO - ....first...
+2023-07-23 00:33:39,056 - ebanking -INFO - enterd userid
+2023-07-23 00:33:39,246 - ebanking -INFO - selected male radio button
+2023-07-23 00:33:39,702 - ebanking -INFO - enter datebirth
+2023-07-23 00:33:44,394 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:35:25,849 - ebanking -INFO - URL is Opened
+2023-07-23 00:35:26,310 - ebanking -INFO - Enterd username
+2023-07-23 00:35:26,444 - ebanking -INFO - enterd password
+2023-07-23 00:35:30,976 - ebanking -INFO - started new registrtion
+2023-07-23 00:35:34,143 - ebanking -INFO - ....first...
+2023-07-23 00:35:34,261 - ebanking -INFO - enterd userid
+2023-07-23 00:35:34,352 - ebanking -INFO - selected male radio button
+2023-07-23 00:35:34,594 - ebanking -INFO - enter datebirth
+2023-07-23 00:35:35,429 - ebanking -INFO - AEbSdxXi@gmail.com
+2023-07-23 00:35:35,528 - ebanking -INFO - password enterd
+2023-07-23 00:35:38,649 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:39:25,835 - ebanking -INFO - URL is Opened
+2023-07-23 00:39:26,275 - ebanking -INFO - Enterd username
+2023-07-23 00:39:26,520 - ebanking -INFO - enterd password
+2023-07-23 00:39:29,600 - ebanking -INFO - started new registrtion
+2023-07-23 00:39:32,780 - ebanking -INFO - ....first...
+2023-07-23 00:39:33,125 - ebanking -INFO - enterd userid
+2023-07-23 00:39:33,223 - ebanking -INFO - selected male radio button
+2023-07-23 00:39:33,604 - ebanking -INFO - enter datebirth
+2023-07-23 00:39:34,665 - ebanking -INFO - URVUeeMd@gmail.com
+2023-07-23 00:39:34,903 - ebanking -INFO - password enterd
+2023-07-23 00:39:38,068 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:43:32,992 - ebanking -INFO - URL is Opened
+2023-07-23 00:43:33,524 - ebanking -INFO - Enterd username
+2023-07-23 00:43:33,715 - ebanking -INFO - enterd password
+2023-07-23 00:43:35,580 - ebanking -INFO - started new registrtion
+2023-07-23 00:43:38,735 - ebanking -INFO - ....first...
+2023-07-23 00:43:38,948 - ebanking -INFO - enterd userid
+2023-07-23 00:43:39,050 - ebanking -INFO - selected male radio button
+2023-07-23 00:43:39,310 - ebanking -INFO - enter datebirth
+2023-07-23 00:43:40,307 - ebanking -INFO - GMVTeikH@gmail.com
+2023-07-23 00:43:40,469 - ebanking -INFO - password enterd
+2023-07-23 00:46:43,369 - ebanking -INFO - URL is Opened
+2023-07-23 00:46:43,852 - ebanking -INFO - Enterd username
+2023-07-23 00:46:43,991 - ebanking -INFO - enterd password
+2023-07-23 00:46:45,890 - ebanking -INFO - started new registrtion
+2023-07-23 00:46:49,029 - ebanking -INFO - ....first...
+2023-07-23 00:46:49,176 - ebanking -INFO - enterd userid
+2023-07-23 00:46:49,268 - ebanking -INFO - selected male radio button
+2023-07-23 00:46:49,543 - ebanking -INFO - enter datebirth
+2023-07-23 00:46:50,508 - ebanking -INFO - xHdyVcpc@gmail.com
+2023-07-23 00:46:50,666 - ebanking -INFO - password enterd
+2023-07-23 00:46:53,817 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:47:49,614 - ebanking -INFO - URL is Opened
+2023-07-23 00:47:50,080 - ebanking -INFO - Enterd username
+2023-07-23 00:47:50,225 - ebanking -INFO - enterd password
+2023-07-23 00:47:52,162 - ebanking -INFO - started new registrtion
+2023-07-23 00:47:55,337 - ebanking -INFO - ....first...
+2023-07-23 00:47:55,574 - ebanking -INFO - enterd userid
+2023-07-23 00:47:55,765 - ebanking -INFO - selected male radio button
+2023-07-23 00:47:56,191 - ebanking -INFO - enter datebirth
+2023-07-23 00:47:57,358 - ebanking -INFO - tKMeyljP@gmail.com
+2023-07-23 00:47:57,564 - ebanking -INFO - password enterd
+2023-07-23 00:48:00,742 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:48:00,827 - ebanking -INFO - Login test failed
+2023-07-23 00:50:25,318 - ebanking -INFO - URL is Opened
+2023-07-23 00:50:25,879 - ebanking -INFO - Enterd username
+2023-07-23 00:50:26,068 - ebanking -INFO - enterd password
+2023-07-23 00:50:27,655 - ebanking -INFO - started new registrtion
+2023-07-23 00:50:30,959 - ebanking -INFO - ....first...
+2023-07-23 00:50:31,820 - ebanking -INFO - enterd userid
+2023-07-23 00:50:32,015 - ebanking -INFO - selected male radio button
+2023-07-23 00:50:32,255 - ebanking -INFO - enter datebirth
+2023-07-23 00:50:33,266 - ebanking -INFO - VmbWrKca@gmail.com
+2023-07-23 00:50:33,435 - ebanking -INFO - password enterd
+2023-07-23 00:50:36,593 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 00:50:36,689 - ebanking -INFO - Login test failed
+2023-07-23 01:02:18,012 - ebanking -INFO - URL is Opened
+2023-07-23 01:02:18,509 - ebanking -INFO - Enterd username
+2023-07-23 01:02:18,656 - ebanking -INFO - enterd password
+2023-07-23 01:02:20,857 - ebanking -INFO - started new registrtion
+2023-07-23 01:02:24,035 - ebanking -INFO - ....first...
+2023-07-23 01:02:24,513 - ebanking -INFO - enterd userid
+2023-07-23 01:02:24,630 - ebanking -INFO - selected male radio button
+2023-07-23 01:02:24,933 - ebanking -INFO - enter datebirth
+2023-07-23 01:02:26,187 - ebanking -INFO - aJVrmeqb@gmail.com
+2023-07-23 01:02:26,385 - ebanking -INFO - password enterd
+2023-07-23 01:02:29,589 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:02:29,639 - ebanking -INFO - Login test failed
+2023-07-23 01:03:59,345 - ebanking -INFO - URL is Opened
+2023-07-23 01:03:59,795 - ebanking -INFO - Enterd username
+2023-07-23 01:03:59,916 - ebanking -INFO - enterd password
+2023-07-23 01:04:02,629 - ebanking -INFO - started new registrtion
+2023-07-23 01:04:05,875 - ebanking -INFO - ....first...
+2023-07-23 01:04:06,018 - ebanking -INFO - enterd userid
+2023-07-23 01:04:06,135 - ebanking -INFO - selected male radio button
+2023-07-23 01:04:06,395 - ebanking -INFO - enter datebirth
+2023-07-23 01:04:07,238 - ebanking -INFO - zcUMvBqL@gmail.com
+2023-07-23 01:04:07,387 - ebanking -INFO - password enterd
+2023-07-23 01:04:10,508 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:04:10,622 - ebanking -INFO - Login test failed
+2023-07-23 01:05:07,123 - ebanking -INFO - URL is Opened
+2023-07-23 01:05:07,521 - ebanking -INFO - Enterd username
+2023-07-23 01:05:07,667 - ebanking -INFO - enterd password
+2023-07-23 01:05:09,513 - ebanking -INFO - started new registrtion
+2023-07-23 01:05:12,683 - ebanking -INFO - ....first...
+2023-07-23 01:05:12,900 - ebanking -INFO - enterd userid
+2023-07-23 01:05:13,079 - ebanking -INFO - selected male radio button
+2023-07-23 01:05:13,448 - ebanking -INFO - enter datebirth
+2023-07-23 01:05:14,345 - ebanking -INFO - MKSWUCKj@gmail.com
+2023-07-23 01:05:14,476 - ebanking -INFO - password enterd
+2023-07-23 01:05:17,587 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:05:17,694 - ebanking -INFO - Login test failed
+2023-07-23 01:07:01,163 - ebanking -INFO - URL is Opened
+2023-07-23 01:07:01,653 - ebanking -INFO - Enterd username
+2023-07-23 01:07:01,815 - ebanking -INFO - enterd password
+2023-07-23 01:07:03,380 - ebanking -INFO - started new registrtion
+2023-07-23 01:07:10,428 - ebanking -INFO - ....first...
+2023-07-23 01:07:10,573 - ebanking -INFO - enterd userid
+2023-07-23 01:07:10,701 - ebanking -INFO - selected male radio button
+2023-07-23 01:07:11,121 - ebanking -INFO - enter datebirth
+2023-07-23 01:07:12,541 - ebanking -INFO - SevTIROK@gmail.com
+2023-07-23 01:07:12,771 - ebanking -INFO - password enterd
+2023-07-23 01:07:15,961 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:07:15,995 - ebanking -INFO - Login test failed
+2023-07-23 01:12:22,088 - ebanking -INFO - URL is Opened
+2023-07-23 01:12:22,603 - ebanking -INFO - Enterd username
+2023-07-23 01:12:22,755 - ebanking -INFO - enterd password
+2023-07-23 01:12:24,232 - ebanking -INFO - started new registrtion
+2023-07-23 01:12:27,502 - ebanking -INFO - ....first...
+2023-07-23 01:12:28,555 - ebanking -INFO - enterd userid
+2023-07-23 01:13:02,913 - ebanking -INFO - URL is Opened
+2023-07-23 01:13:03,350 - ebanking -INFO - Enterd username
+2023-07-23 01:13:03,520 - ebanking -INFO - enterd password
+2023-07-23 01:13:57,025 - ebanking -INFO - URL is Opened
+2023-07-23 01:13:57,489 - ebanking -INFO - Enterd username
+2023-07-23 01:13:57,610 - ebanking -INFO - enterd password
+2023-07-23 01:13:59,194 - ebanking -INFO - started new registrtion
+2023-07-23 01:14:02,696 - ebanking -INFO - ....first...
+2023-07-23 01:14:02,923 - ebanking -INFO - enterd userid
+2023-07-23 01:14:03,068 - ebanking -INFO - selected male radio button
+2023-07-23 01:14:03,564 - ebanking -INFO - enter datebirth
+2023-07-23 01:14:04,745 - ebanking -INFO - lUkLPeuU@gmail.com
+2023-07-23 01:14:04,915 - ebanking -INFO - password enterd
+2023-07-23 01:14:08,074 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:14:08,164 - ebanking -INFO - Login test failed
+2023-07-23 01:18:32,401 - ebanking -INFO - URL is Opened
+2023-07-23 01:18:32,910 - ebanking -INFO - Enterd username
+2023-07-23 01:18:33,074 - ebanking -INFO - enterd password
+2023-07-23 01:18:35,022 - ebanking -INFO - started new registrtion
+2023-07-23 01:18:38,160 - ebanking -INFO - ....first...
+2023-07-23 01:18:38,423 - ebanking -INFO - enterd userid
+2023-07-23 01:18:38,566 - ebanking -INFO - selected male radio button
+2023-07-23 01:18:38,959 - ebanking -INFO - enter datebirth
+2023-07-23 01:18:39,972 - ebanking -INFO - bZWFezcJ@gmail.com
+2023-07-23 01:18:40,121 - ebanking -INFO - password enterd
+2023-07-23 01:18:43,247 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:18:43,289 - ebanking -INFO - Login test failed
+2023-07-23 01:20:19,241 - ebanking -INFO - URL is Opened
+2023-07-23 01:20:19,827 - ebanking -INFO - Enterd username
+2023-07-23 01:20:19,973 - ebanking -INFO - enterd password
+2023-07-23 01:20:21,442 - ebanking -INFO - started new registrtion
+2023-07-23 01:20:25,460 - ebanking -INFO - ....first...
+2023-07-23 01:20:25,613 - ebanking -INFO - enterd userid
+2023-07-23 01:20:25,746 - ebanking -INFO - selected male radio button
+2023-07-23 01:20:26,001 - ebanking -INFO - enter datebirth
+2023-07-23 01:20:26,977 - ebanking -INFO - sMToVeFU@gmail.com
+2023-07-23 01:20:27,238 - ebanking -INFO - password enterd
+2023-07-23 01:20:30,447 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:21:49,408 - ebanking -INFO - URL is Opened
+2023-07-23 01:21:49,997 - ebanking -INFO - Enterd username
+2023-07-23 01:21:50,208 - ebanking -INFO - enterd password
+2023-07-23 01:21:53,121 - ebanking -INFO - started new registrtion
+2023-07-23 01:21:56,274 - ebanking -INFO - ....first...
+2023-07-23 01:21:57,529 - ebanking -INFO - enterd userid
+2023-07-23 01:21:57,700 - ebanking -INFO - selected male radio button
+2023-07-23 01:21:57,955 - ebanking -INFO - enter datebirth
+2023-07-23 01:21:58,952 - ebanking -INFO - tOvrMMpu@gmail.com
+2023-07-23 01:21:59,157 - ebanking -INFO - password enterd
+2023-07-23 01:22:02,301 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:23:14,872 - ebanking -INFO - URL is Opened
+2023-07-23 01:23:15,377 - ebanking -INFO - Enterd username
+2023-07-23 01:23:15,573 - ebanking -INFO - enterd password
+2023-07-23 01:23:17,275 - ebanking -INFO - started new registrtion
+2023-07-23 01:23:20,661 - ebanking -INFO - ....first...
+2023-07-23 01:23:20,841 - ebanking -INFO - enterd userid
+2023-07-23 01:23:21,014 - ebanking -INFO - selected male radio button
+2023-07-23 01:23:21,492 - ebanking -INFO - enter datebirth
+2023-07-23 01:23:22,457 - ebanking -INFO - JRuMoBwr@gmail.com
+2023-07-23 01:23:22,718 - ebanking -INFO - password enterd
+2023-07-23 01:23:25,853 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:24:17,864 - ebanking -INFO - URL is Opened
+2023-07-23 01:24:18,383 - ebanking -INFO - Enterd username
+2023-07-23 01:24:18,525 - ebanking -INFO - enterd password
+2023-07-23 01:24:20,364 - ebanking -INFO - started new registrtion
+2023-07-23 01:24:23,516 - ebanking -INFO - ....first...
+2023-07-23 01:24:23,744 - ebanking -INFO - enterd userid
+2023-07-23 01:24:23,929 - ebanking -INFO - selected male radio button
+2023-07-23 01:24:24,423 - ebanking -INFO - enter datebirth
+2023-07-23 01:24:25,412 - ebanking -INFO - WnERKTDf@gmail.com
+2023-07-23 01:24:25,677 - ebanking -INFO - password enterd
+2023-07-23 01:24:28,856 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:25:40,853 - ebanking -INFO - URL is Opened
+2023-07-23 01:25:41,464 - ebanking -INFO - Enterd username
+2023-07-23 01:25:41,604 - ebanking -INFO - enterd password
+2023-07-23 01:25:43,765 - ebanking -INFO - started new registrtion
+2023-07-23 01:25:46,915 - ebanking -INFO - ....first...
+2023-07-23 01:25:47,164 - ebanking -INFO - enterd userid
+2023-07-23 01:25:47,372 - ebanking -INFO - selected male radio button
+2023-07-23 01:25:47,746 - ebanking -INFO - enter datebirth
+2023-07-23 01:25:48,587 - ebanking -INFO - UMGKxvfn@gmail.com
+2023-07-23 01:25:48,764 - ebanking -INFO - password enterd
+2023-07-23 01:25:51,934 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 01:25:52,008 - ebanking -INFO - New Customer is  failed
+2023-07-23 01:35:01,666 - ebanking -INFO - URL is Opened
+2023-07-23 01:35:02,204 - ebanking -INFO - Enterd username
+2023-07-23 01:35:02,356 - ebanking -INFO - enterd password
+2023-07-23 01:35:29,284 - ebanking -INFO - URL is Opened
+2023-07-23 01:35:29,725 - ebanking -INFO - Enterd username
+2023-07-23 01:35:29,862 - ebanking -INFO - enterd password
+2023-07-23 21:11:04,021 - ebanking -INFO - URL is Opened
+2023-07-23 21:11:04,418 - ebanking -INFO - Enterd username
+2023-07-23 21:11:04,553 - ebanking -INFO - enterd password
+2023-07-23 21:11:05,880 - ebanking -INFO - started new registrtion
+2023-07-23 21:11:11,618 - ebanking -INFO - ....first...
+2023-07-23 21:11:11,733 - ebanking -INFO - enterd userid
+2023-07-23 21:11:11,802 - ebanking -INFO - selected male radio button
+2023-07-23 21:11:12,000 - ebanking -INFO - enter datebirth
+2023-07-23 21:11:12,511 - ebanking -INFO - ZfsPjkVG@gmail.com
+2023-07-23 21:11:12,607 - ebanking -INFO - password enterd
+2023-07-23 21:11:15,692 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:13:05,136 - ebanking -INFO - URL is Opened
+2023-07-23 21:13:05,540 - ebanking -INFO - Enterd username
+2023-07-23 21:13:05,680 - ebanking -INFO - enterd password
+2023-07-23 21:13:06,949 - ebanking -INFO - started new registrtion
+2023-07-23 21:13:10,897 - ebanking -INFO - ....first...
+2023-07-23 21:13:11,007 - ebanking -INFO - enterd userid
+2023-07-23 21:13:11,076 - ebanking -INFO - selected male radio button
+2023-07-23 21:13:11,257 - ebanking -INFO - enter datebirth
+2023-07-23 21:13:11,732 - ebanking -INFO - dauGaXKu@gmail.com
+2023-07-23 21:13:11,830 - ebanking -INFO - password enterd
+2023-07-23 21:13:11,830 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:13:54,620 - ebanking -INFO - URL is Opened
+2023-07-23 21:13:54,917 - ebanking -INFO - Enterd username
+2023-07-23 21:13:55,066 - ebanking -INFO - enterd password
+2023-07-23 21:13:56,379 - ebanking -INFO - started new registrtion
+2023-07-23 21:14:00,374 - ebanking -INFO - ....first...
+2023-07-23 21:14:00,482 - ebanking -INFO - enterd userid
+2023-07-23 21:14:00,558 - ebanking -INFO - selected male radio button
+2023-07-23 21:14:00,837 - ebanking -INFO - enter datebirth
+2023-07-23 21:14:01,877 - ebanking -INFO - QBKfRSWK@gmail.com
+2023-07-23 21:14:02,021 - ebanking -INFO - password enterd
+2023-07-23 21:14:02,022 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:14:02,295 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:16:37,788 - ebanking -INFO - URL is Opened
+2023-07-23 21:16:38,152 - ebanking -INFO - Enterd username
+2023-07-23 21:16:38,279 - ebanking -INFO - enterd password
+2023-07-23 21:20:45,044 - ebanking -INFO - URL is Opened
+2023-07-23 21:20:45,352 - ebanking -INFO - Enterd username
+2023-07-23 21:20:45,466 - ebanking -INFO - enterd password
+2023-07-23 21:20:46,693 - ebanking -INFO - started new registrtion
+2023-07-23 21:20:50,646 - ebanking -INFO - ....first...
+2023-07-23 21:20:50,738 - ebanking -INFO - enterd userid
+2023-07-23 21:20:50,821 - ebanking -INFO - selected male radio button
+2023-07-23 21:20:51,058 - ebanking -INFO - enter datebirth
+2023-07-23 21:20:51,567 - ebanking -INFO - JhdPcpCM@gmail.com
+2023-07-23 21:20:51,664 - ebanking -INFO - password enterd
+2023-07-23 21:20:51,664 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:20:51,775 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:23:19,171 - ebanking -INFO - URL is Opened
+2023-07-23 21:23:19,544 - ebanking -INFO - Enterd username
+2023-07-23 21:23:19,645 - ebanking -INFO - enterd password
+2023-07-23 21:23:20,960 - ebanking -INFO - Login test passed
+2023-07-23 21:35:06,789 - ebanking -INFO - URL is Opened
+2023-07-23 21:35:07,132 - ebanking -INFO - Enterd username
+2023-07-23 21:35:07,255 - ebanking -INFO - enterd password
+2023-07-23 21:35:08,553 - ebanking -INFO - started new registrtion
+2023-07-23 21:35:12,470 - ebanking -INFO - ....first...
+2023-07-23 21:35:12,620 - ebanking -INFO - enterd userid
+2023-07-23 21:35:12,679 - ebanking -INFO - selected male radio button
+2023-07-23 21:35:12,884 - ebanking -INFO - enter datebirth
+2023-07-23 21:35:13,443 - ebanking -INFO - XWrDwoEr@gmail.com
+2023-07-23 21:35:13,534 - ebanking -INFO - password enterd
+2023-07-23 21:35:13,535 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:35:13,682 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:38:36,156 - ebanking -INFO - URL is Opened
+2023-07-23 21:38:36,573 - ebanking -INFO - Enterd username
+2023-07-23 21:38:36,737 - ebanking -INFO - enterd password
+2023-07-23 21:38:38,058 - ebanking -INFO - started new registrtion
+2023-07-23 21:38:42,069 - ebanking -INFO - ....first...
+2023-07-23 21:38:42,150 - ebanking -INFO - enterd userid
+2023-07-23 21:38:42,243 - ebanking -INFO - selected male radio button
+2023-07-23 21:38:42,413 - ebanking -INFO - enter datebirth
+2023-07-23 21:38:42,925 - ebanking -INFO - ZWkdpwkR@gmail.com
+2023-07-23 21:38:43,015 - ebanking -INFO - password enterd
+2023-07-23 21:38:43,015 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:38:43,129 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:40:26,744 - ebanking -INFO - URL is Opened
+2023-07-23 21:40:27,103 - ebanking -INFO - Enterd username
+2023-07-23 21:40:27,231 - ebanking -INFO - enterd password
+2023-07-23 21:40:28,525 - ebanking -INFO - started new registrtion
+2023-07-23 21:40:31,867 - ebanking -INFO - ....first...
+2023-07-23 21:40:32,138 - ebanking -INFO - enterd userid
+2023-07-23 21:40:32,259 - ebanking -INFO - selected male radio button
+2023-07-23 21:40:32,510 - ebanking -INFO - enter datebirth
+2023-07-23 21:40:33,042 - ebanking -INFO - gXjOUkSf@gmail.com
+2023-07-23 21:40:33,142 - ebanking -INFO - password enterd
+2023-07-23 21:40:33,142 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:40:36,273 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:41:39,693 - ebanking -INFO - URL is Opened
+2023-07-23 21:41:40,060 - ebanking -INFO - Enterd username
+2023-07-23 21:41:40,190 - ebanking -INFO - enterd password
+2023-07-23 21:42:05,138 - ebanking -INFO - URL is Opened
+2023-07-23 21:42:05,449 - ebanking -INFO - Enterd username
+2023-07-23 21:42:05,615 - ebanking -INFO - enterd password
+2023-07-23 21:42:06,891 - ebanking -INFO - started new registrtion
+2023-07-23 21:42:10,821 - ebanking -INFO - ....first...
+2023-07-23 21:42:10,909 - ebanking -INFO - enterd userid
+2023-07-23 21:42:10,983 - ebanking -INFO - selected male radio button
+2023-07-23 21:42:11,147 - ebanking -INFO - enter datebirth
+2023-07-23 21:42:11,667 - ebanking -INFO - SkhOIFTO@gmail.com
+2023-07-23 21:42:11,766 - ebanking -INFO - password enterd
+2023-07-23 21:42:11,767 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:42:14,911 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:42:55,170 - ebanking -INFO - URL is Opened
+2023-07-23 21:42:55,516 - ebanking -INFO - Enterd username
+2023-07-23 21:42:55,664 - ebanking -INFO - enterd password
+2023-07-23 21:42:56,939 - ebanking -INFO - started new registrtion
+2023-07-23 21:43:00,899 - ebanking -INFO - ....first...
+2023-07-23 21:43:01,014 - ebanking -INFO - enterd userid
+2023-07-23 21:43:01,111 - ebanking -INFO - selected male radio button
+2023-07-23 21:43:01,321 - ebanking -INFO - enter datebirth
+2023-07-23 21:43:01,962 - ebanking -INFO - PhvxEKdM@gmail.com
+2023-07-23 21:43:02,055 - ebanking -INFO - password enterd
+2023-07-23 21:43:02,056 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:43:05,194 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:44:14,299 - ebanking -INFO - URL is Opened
+2023-07-23 21:44:14,650 - ebanking -INFO - Enterd username
+2023-07-23 21:44:14,822 - ebanking -INFO - enterd password
+2023-07-23 21:44:16,219 - ebanking -INFO - started new registrtion
+2023-07-23 21:44:20,194 - ebanking -INFO - ....first...
+2023-07-23 21:44:20,308 - ebanking -INFO - enterd userid
+2023-07-23 21:44:20,377 - ebanking -INFO - selected male radio button
+2023-07-23 21:44:20,559 - ebanking -INFO - enter datebirth
+2023-07-23 21:44:21,158 - ebanking -INFO - xovBuYgj@gmail.com
+2023-07-23 21:44:21,255 - ebanking -INFO - password enterd
+2023-07-23 21:44:21,255 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:44:24,372 - ebanking -INFO - New Customer is  failed
+2023-07-23 21:45:06,213 - ebanking -INFO - URL is Opened
+2023-07-23 21:45:06,617 - ebanking -INFO - Enterd username
+2023-07-23 21:45:06,725 - ebanking -INFO - enterd password
+2023-07-23 21:45:08,987 - ebanking -INFO - started new registrtion
+2023-07-23 21:45:12,143 - ebanking -INFO - ....first...
+2023-07-23 21:45:12,239 - ebanking -INFO - enterd userid
+2023-07-23 21:45:12,307 - ebanking -INFO - selected male radio button
+2023-07-23 21:45:12,480 - ebanking -INFO - enter datebirth
+2023-07-23 21:45:13,069 - ebanking -INFO - pFEapuKq@gmail.com
+2023-07-23 21:45:13,187 - ebanking -INFO - password enterd
+2023-07-23 21:45:13,187 - ebanking -INFO - enterd all details for NewCutomer
+2023-07-23 21:45:16,335 - ebanking -INFO - New Customer is  failed
+2023-07-23 22:13:53,682 - ebanking -INFO - Enterd username
+2023-07-23 22:13:53,823 - ebanking -INFO - enterd password
+2023-07-23 22:13:55,075 - ebanking -INFO - New Customer Passed
+2023-07-23 22:15:55,048 - ebanking -INFO - Enterd username
+2023-07-23 22:15:55,140 - ebanking -INFO - enterd password
+2023-07-23 22:15:57,132 - ebanking -INFO - New Customer Failed
+2023-07-23 22:18:08,615 - ebanking -INFO - Enterd username
+2023-07-23 22:18:08,759 - ebanking -INFO - enterd password
+2023-07-23 22:18:11,425 - ebanking -INFO - New Customer Passed
+2023-07-23 22:20:06,178 - ebanking -INFO - Enterd username
+2023-07-23 22:20:06,301 - ebanking -INFO - enterd password
+2023-07-23 22:20:08,151 - ebanking -INFO - enterd userid
+2023-07-23 22:20:10,214 - ebanking -INFO - selected male radio button
+2023-07-23 22:20:10,489 - ebanking -INFO - enter datebirth
+2023-07-23 22:20:11,024 - ebanking -INFO - wTtuWgNY@gmail.com
+2023-07-23 22:20:11,114 - ebanking -INFO - password enterd
+2023-07-23 22:20:11,128 - ebanking -INFO - New Customer Passed
+2023-07-23 22:20:56,279 - ebanking -INFO - Enterd username
+2023-07-23 22:20:56,406 - ebanking -INFO - enterd password
+2023-07-23 22:20:58,652 - ebanking -INFO - enterd userid
+2023-07-23 22:20:58,858 - ebanking -INFO - selected male radio button
+2023-07-23 22:20:59,087 - ebanking -INFO - enter datebirth
+2023-07-23 22:20:59,667 - ebanking -INFO - LRVVVcJB@gmail.com
+2023-07-23 22:20:59,750 - ebanking -INFO - password enterd
+2023-07-23 22:20:59,769 - ebanking -INFO - New Customer Passed
+2023-07-23 22:22:29,726 - ebanking -INFO - Enterd username
+2023-07-23 22:22:29,874 - ebanking -INFO - enterd password
+2023-07-23 22:22:32,164 - ebanking -INFO - enterd userid
+2023-07-23 22:24:55,605 - ebanking -INFO - Enterd username
+2023-07-23 22:24:55,726 - ebanking -INFO - enterd password
+2023-07-23 22:24:57,314 - ebanking -INFO - enterd userid
+2023-07-23 22:25:00,398 - ebanking -INFO - selected male radio button
+2023-07-23 22:25:00,665 - ebanking -INFO - enter datebirth
+2023-07-23 22:25:01,558 - ebanking -INFO - bXaSIqkO@gmail.com
+2023-07-23 22:25:01,667 - ebanking -INFO - password enterd
+2023-07-23 22:25:01,685 - ebanking -INFO - New Customer Passed
+2023-07-23 22:26:50,528 - ebanking -INFO - Enterd username
+2023-07-23 22:26:50,751 - ebanking -INFO - enterd password
+2023-07-23 22:26:53,987 - ebanking -INFO - enterd userid
+2023-07-23 22:26:54,088 - ebanking -INFO - selected male radio button
+2023-07-23 22:26:54,626 - ebanking -INFO - enter datebirth
+2023-07-23 22:26:55,447 - ebanking -INFO - basXVCye@gmail.com
+2023-07-23 22:26:55,688 - ebanking -INFO - password enterd
+2023-07-23 22:26:55,762 - ebanking -INFO - New Customer Passed
+2023-07-23 22:27:30,992 - ebanking -INFO - Enterd username
+2023-07-23 22:27:31,124 - ebanking -INFO - enterd password
+2023-07-23 22:27:33,515 - ebanking -INFO - enterd userid
+2023-07-23 22:27:34,023 - ebanking -INFO - selected male radio button
+2023-07-23 22:27:34,406 - ebanking -INFO - enter datebirth
+2023-07-23 22:27:35,247 - ebanking -INFO - FvMykiUg@gmail.com
+2023-07-23 22:27:35,357 - ebanking -INFO - password enterd
+2023-07-23 22:27:35,390 - ebanking -INFO - New Customer Passed
+2023-07-23 22:28:21,920 - ebanking -INFO - Enterd username
+2023-07-23 22:28:22,026 - ebanking -INFO - enterd password
+2023-07-23 22:28:28,187 - ebanking -INFO - enterd userid
+2023-07-23 22:28:28,703 - ebanking -INFO - selected male radio button
+2023-07-23 22:28:29,117 - ebanking -INFO - enter datebirth
+2023-07-23 22:28:29,948 - ebanking -INFO - NvRcTVGZ@gmail.com
+2023-07-23 22:28:30,250 - ebanking -INFO - password enterd
+2023-07-23 22:30:12,514 - ebanking -INFO - Enterd username
+2023-07-23 22:30:12,650 - ebanking -INFO - enterd password
+2023-07-23 22:30:17,389 - ebanking -INFO - enterd userid
+2023-07-23 22:30:17,674 - ebanking -INFO - selected male radio button
+2023-07-23 22:30:18,011 - ebanking -INFO - enter datebirth
+2023-07-23 22:30:18,975 - ebanking -INFO - goSdzQwi@gmail.com
+2023-07-23 22:30:19,229 - ebanking -INFO - password enterd
+2023-07-23 22:32:01,969 - ebanking -INFO - Enterd username
+2023-07-23 22:32:02,122 - ebanking -INFO - enterd password
+2023-07-23 22:32:06,079 - ebanking -INFO - enterd userid
+2023-07-23 22:32:06,742 - ebanking -INFO - selected male radio button
+2023-07-23 22:32:07,036 - ebanking -INFO - enter datebirth
+2023-07-23 22:32:07,714 - ebanking -INFO - ZvBLCzyB@gmail.com
+2023-07-23 22:32:07,906 - ebanking -INFO - password enterd
+2023-07-23 22:32:52,850 - ebanking -INFO - Enterd username
+2023-07-23 22:32:53,102 - ebanking -INFO - enterd password
+2023-07-23 22:32:58,533 - ebanking -INFO - enterd userid
+2023-07-23 22:32:59,007 - ebanking -INFO - selected male radio button
+2023-07-23 22:32:59,295 - ebanking -INFO - enter datebirth
+2023-07-23 22:33:00,468 - ebanking -INFO - RCYgDeZT@gmail.com
+2023-07-23 22:33:00,607 - ebanking -INFO - password enterd
+2023-07-23 22:36:25,573 - ebanking -INFO - Enterd username
+2023-07-23 22:36:25,709 - ebanking -INFO - enterd password
+2023-07-23 22:36:28,069 - ebanking -INFO - enterd userid
+2023-07-23 22:36:28,341 - ebanking -INFO - selected male radio button
+2023-07-23 22:36:28,586 - ebanking -INFO - enter datebirth
+2023-07-23 22:36:29,209 - ebanking -INFO - ySZQCYeg@gmail.com
+2023-07-23 22:36:29,291 - ebanking -INFO - password enterd
+2023-07-23 22:37:20,900 - ebanking -INFO - Enterd username
+2023-07-23 22:37:21,029 - ebanking -INFO - enterd password
+2023-07-23 22:37:23,471 - ebanking -INFO - enterd userid
+2023-07-23 22:37:23,586 - ebanking -INFO - selected male radio button
+2023-07-23 22:37:23,794 - ebanking -INFO - enter datebirth
+2023-07-23 22:37:24,377 - ebanking -INFO - zUicJEzF@gmail.com
+2023-07-23 22:37:24,471 - ebanking -INFO - password enterd
+2023-07-23 22:38:08,388 - ebanking -INFO - Enterd username
+2023-07-23 22:38:08,528 - ebanking -INFO - enterd password
+2023-07-23 22:38:12,726 - ebanking -INFO - enterd userid
+2023-07-23 22:38:13,071 - ebanking -INFO - selected male radio button
+2023-07-23 22:38:13,348 - ebanking -INFO - enter datebirth
+2023-07-23 22:38:14,199 - ebanking -INFO - fLjjBmBq@gmail.com
+2023-07-23 22:38:14,360 - ebanking -INFO - password enterd
+2023-07-23 22:38:16,839 - ebanking -INFO - New Customer Passed
+2023-07-23 22:49:55,160 - ebanking -INFO - Enterd username
+2023-07-23 22:49:55,292 - ebanking -INFO - enterd password
+2023-07-23 22:49:57,664 - ebanking -INFO - enterd userid
+2023-07-23 22:49:57,814 - ebanking -INFO - selected male radio button
+2023-07-23 22:49:58,119 - ebanking -INFO - enter datebirth
+2023-07-23 22:49:58,708 - ebanking -INFO - lCwpiIZu@gmail.com
+2023-07-23 22:49:58,801 - ebanking -INFO - password enterd
+2023-07-23 22:50:01,813 - ebanking -INFO - New Customer Passed
+2023-07-23 22:52:02,530 - ebanking -INFO - Enterd username
+2023-07-23 22:52:02,641 - ebanking -INFO - enterd password
+2023-07-23 22:52:05,143 - ebanking -INFO - enterd userid
+2023-07-23 22:52:05,283 - ebanking -INFO - selected male radio button
+2023-07-23 22:52:05,521 - ebanking -INFO - enter datebirth
+2023-07-23 22:52:06,131 - ebanking -INFO - kbjRUfRq@gmail.com
+2023-07-23 22:52:06,219 - ebanking -INFO - password enterd
+2023-07-23 22:52:09,420 - ebanking -INFO - New Customer Passed

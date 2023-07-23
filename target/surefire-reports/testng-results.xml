@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-23T17:21:55Z" name="Suite" finished-at="2023-07-23T17:22:10Z" duration-ms="15617">
+    <groups>
+    </groups>
+    <test started-at="2023-07-23T17:21:55Z" name="Test" finished-at="2023-07-23T17:22:10Z" duration-ms="15617">
+      <class name="com.inetbanking.testCases.TC_NewCutomerRegistration002">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.testCases.TC_NewCutomerRegistration002@7fa98a66]" started-at="2023-07-23T17:21:55Z" name="setup" finished-at="2023-07-23T17:21:57Z" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testNewUserRegister()[pri:0, instance:com.inetbanking.testCases.TC_NewCutomerRegistration002@7fa98a66]" started-at="2023-07-23T17:21:57Z" name="testNewUserRegister" finished-at="2023-07-23T17:22:09Z" duration-ms="12437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewUserRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_NewCutomerRegistration002@7fa98a66]" started-at="2023-07-23T17:22:09Z" name="tearDown" finished-at="2023-07-23T17:22:10Z" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.testCases.TC_NewCutomerRegistration002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
